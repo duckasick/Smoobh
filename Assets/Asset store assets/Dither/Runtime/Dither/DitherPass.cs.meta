@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 704e9f69207ce0e44a2be12086db83b0
+timeCreated: 1696967500
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280822
+  packageName: Dither - Retro pixelated pattern Effect
+  packageVersion: 1.0
+  assetPath: Assets/Dither/Runtime/Dither/DitherPass.cs
+  uploadId: 703196

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: b4e123b05afb4b14e8013c8098358fa9
+timeCreated: 1729490142
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280821
+  packageName: Ascii
+  packageVersion: 1.1
+  assetPath: Assets/Ascii/Editor/Installer.cs
+  uploadId: 703195

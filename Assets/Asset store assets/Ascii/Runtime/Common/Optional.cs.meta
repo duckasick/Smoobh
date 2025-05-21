@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 7c9a40c300d16034c8ebe5114d705444
+timeCreated: 1697616851
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280821
+  packageName: Ascii
+  packageVersion: 1.1
+  assetPath: Assets/Ascii/Runtime/Common/Optional.cs
+  uploadId: 703195

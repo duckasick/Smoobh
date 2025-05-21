@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 624315883da2f3d4c9d8443e9809139d
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280821
+  packageName: Ascii
+  packageVersion: 1.1
+  assetPath: Assets/Ascii/package.json
+  uploadId: 703195

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f8e780bb18f1b0946988eef01787356e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280821
+  packageName: Ascii
+  packageVersion: 1.1
+  assetPath: Assets/Ascii/Samples/Ascii 1.asset
+  uploadId: 703195

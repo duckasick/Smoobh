@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: ce280e1cc6cb7f245989788c986a5df6
+timeCreated: 1696967500
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280821
+  packageName: Ascii
+  packageVersion: 1.1
+  assetPath: Assets/Ascii/Runtime/Ascii/AsciiPass.cs
+  uploadId: 703195

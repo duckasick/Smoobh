@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 111c7ef0fb81bde49a0426601e88738e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280821
+  packageName: Ascii
+  packageVersion: 1.1
+  assetPath: Assets/Ascii/Samples/UrpAscii.asset
+  uploadId: 703195
